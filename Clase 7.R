@@ -8,7 +8,11 @@ clima$Localidad <- as.factor(clima$Localidad)
 clima$Fecha <- as.Date(clima$Fecha, format = "%d/%m/%Y")
 
 boxplot(clima$TA~ clima$Localidad,
-        col= "red",
+        col= "indianred",
         ylab = "TA (C°)",
         xlab = "Localidades",
-        ylim = c)
+        ylim = c(10,35),
+        outcol = "indianred", #marcar outliers en rojo
+        outpch = 19) #cambiar la forma a circulo relleno
+
+tapply(clima$TA, clima$Localidad, mean)
