@@ -17,3 +17,5 @@ plot(Cumbres$FechaHora, Cumbres$TA,
      xlab = "Fecha",
      ylab = "Temp (°C)",
      main = "Serie de variable Temp")
+
+no me salio
