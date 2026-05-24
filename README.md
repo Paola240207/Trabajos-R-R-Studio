@@ -11,4 +11,4 @@ Curso de Diseño Experimental en los recursos naturales
 
 # CONTENIDO DEL PIA
 
-(Scripts[Script])
+(Cargar[Script])
