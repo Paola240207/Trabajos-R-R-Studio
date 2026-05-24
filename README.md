@@ -28,8 +28,5 @@ https://github.com/Paola240207/Trabajos-R-R-Studio/tree/c7173e842681d470adc9c0e1
 Tareas:
 https://github.com/Paola240207/Trabajos-R-R-Studio/tree/1d7a88d4a503fcce1c859e7db420a18fed2fa35d/Tareas
 
-
-
-
 Laboratorio:
-
+https://github.com/Paola240207/Trabajos-R-R-Studio/tree/68fb0f2b2877dda9cc11a2333cc1f85af21c78ac/Laboratorios
