@@ -11,5 +11,5 @@ Curso de Diseño Experimental en los recursos naturales
 
 # CONTENIDO DEL PIA
 
-(feature[Script])
+(Link[https://github.com/Paola240207/Trabajos-R-R-Studio/tree/c7173e842681d470adc9c0e1f44e59eed0e2e920/Script])
 # Script
