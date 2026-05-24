@@ -7,18 +7,18 @@ Esta Unidad de Aprendizaje de Diseño Experimental consistió en la realización
 # Contenido de clase
 
 Pruebas:
--Shapiro
--Spearman
--Tau de Kendall
--Pearson
--Bartlett
--T Student
--ANOVA
--Tukey
+- Shapiro
+- Spearman
+- Tau de Kendall
+- Pearson
+- Bartlett
+- T Student
+- ANOVA
+- Tukey
 
 Graficos:
--Diagrama de caja (boxplot)
--Histograma
++ Diagrama de caja (boxplot)
++ Histograma
 
 # Contenido del PIA
 
@@ -26,6 +26,9 @@ Script:
 https://github.com/Paola240207/Trabajos-R-R-Studio/tree/c7173e842681d470adc9c0e1f44e59eed0e2e920/Script
 
 Tareas:
+https://github.com/Paola240207/Trabajos-R-R-Studio/tree/1d7a88d4a503fcce1c859e7db420a18fed2fa35d/Tareas
+
+
 
 
 Laboratorio:
