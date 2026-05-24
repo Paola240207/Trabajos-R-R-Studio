@@ -7,10 +7,18 @@ Esta Unidad de Aprendizaje de Diseño Experimental consistió en la realización
 # Contenido de clase
 
 Pruebas:
--
--
--
--
+-Shapiro
+-Spearman
+-Tau de Kendall
+-Pearson
+-Bartlett
+-T Student
+-ANOVA
+-Tukey
+
+Graficos:
+-Diagrama de caja (boxplot)
+-Histograma
 
 # Contenido del PIA
 
