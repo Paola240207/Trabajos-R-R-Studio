@@ -8,4 +8,7 @@ Curso de Diseño Experimental en los recursos naturales
 -   Clase semana 2
 -   Clase semana 3
 -   Clase semana 4
-## EXAMEN
+
+# CONTENIDO DEL PIA
+
+(Scripts[Script])
